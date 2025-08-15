@@ -58,13 +58,15 @@ Create a new file: `SplashActivity.kt`
 
 **📁 Files in this repo:**
 - [`SplashActivity.kt`](android/app/src/main/kotlin/com/example/chatapp/SplashActivity.kt) - Copy this file to your project.  
-  **💡 Tip:** You can freely modify this file to adjust how the animation is displayed, including background color, duration, speed, repeat count, and transition effects.
+
+**💡 Tip:** You can freely modify this file to adjust how the animation is displayed, including background color, duration, speed, repeat count, and transition effects.
+
 **💡 Note:** Change the package name in the code to match your app’s package name.  
 You can find your package name in `android/app/build.gradle.kts` under the `namespace` property, for example:
 
 ```kotlin
 namespace = "com.example.chatapp"
-
+```
 
 - [`MainActivity.kt`](android/app/src/main/kotlin/com/example/chatapp/MainActivity.kt) - Basic Flutter activity
 
